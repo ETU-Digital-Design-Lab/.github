@@ -1,6 +1,6 @@
 # ETU - Digital Design Laboratory
 
-The Digital Design Lab is an academic research group working on problems in modern computing systems. The lab focuses on both theoretical and practical aspects of digital design, computer architecture, cryptography, artificial intelligence, and machine learning.
+ETU Digital Design Lab is an academic research group working on problems in modern computing systems. The lab focuses on both theoretical and practical aspects of digital design, computer architecture, cryptography, artificial intelligence, and machine learning.
 
 ---
 
